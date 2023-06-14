@@ -1,0 +1,22 @@
+.App {
+  font-family: SF Pro Display, SF Pro Icons, AOS Icons, Helvetica Neue, Helvetica, Arial, sans-serif
+}
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 2em;
+}
+
+body {
+  background-color: rgb(240, 240, 240);
+}
